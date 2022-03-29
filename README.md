@@ -1,1 +1,1 @@
-My Main Branch Read me fiel is now updated usig git hub gui
+My Main Branch Read me file is now updated usig git hub gui
